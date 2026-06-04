@@ -1,0 +1,27 @@
+{
+  "tagline": "Thought Leadership",
+  "title": "Insights & Perspectives — ARSK & Associates",
+  "articles": [
+    {
+      "category": "FEMA & Inbound Investment",
+      "date": "May 2026",
+      "title": "Navigating FEMA for Inbound Investments",
+      "excerpt": "An essential guide for foreign companies setting up subsidiaries in India. We outline the key compliance steps, RBI reporting requirements, and optimal corporate structures to minimize transfer pricing exposures.",
+      "author": "By Suresh Kumar Kabra, Partner"
+    },
+    {
+      "category": "Indirect Taxation (GST)",
+      "date": "April 2026",
+      "title": "Understanding GST Scrutiny Notices under Section 61",
+      "excerpt": "Departmental audits and scrutiny notices are rising. We break down the practical steps to respond to GST show-cause notices, defend input tax credits, and avoid penalty assessments.",
+      "author": "By Ravindra Khandelwal, Partner"
+    },
+    {
+      "category": "Corporate Advisory & Restructuring",
+      "date": "March 2026",
+      "title": "The Founder's Guide to Business Restructuring under NCLT",
+      "excerpt": "Mergers, demergers, and family business transitions are complex. Learn how to align tax efficiency, business valuations, and company law compliance for a seamless restructuring.",
+      "author": "By Amrit Kabra, Partner"
+    }
+  ]
+}

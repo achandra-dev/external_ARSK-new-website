@@ -1,0 +1,30 @@
+{
+  "tagline": "Chartered Accountants Since 1984",
+  "title": "Over Four Decades. One firm that handles all of it.",
+  "lead": "ARSK & Associates is a Chartered Accountant firm established in 1984. We work with founders, promoters, family businesses, and multinationals navigating India's complex regulatory and commercial landscape — from day-to-day compliance to high-stakes transactions and disputes.",
+  "subtext": "With professionals-led teams in Kolkata and Mumbai, and qualified professionals across audit, taxation, corporate law, and advisory, we bring the breadth of a large firm with the accountability of a practice where your partner picks up the phone.",
+  "primaryCtaText": "Schedule a Consultation",
+  "primaryCtaLink": "#contact",
+  "secondaryCtaText": "Explore Our Services",
+  "secondaryCtaLink": "#services",
+  "image": "/images/image.png",
+  "imageAlt": "ARSK Office Reception",
+  "pillarsTitle": "How we work",
+  "pillars": [
+    {
+      "num": "01",
+      "title": "Depth Without Complexity",
+      "text": "We handle direct tax, indirect tax, international tax, audit, corporate law, valuations, and transaction advisory — all under one roof. You do not need to coordinate five different advisors. We handle the full picture."
+    },
+    {
+      "num": "02",
+      "title": "Partner-Level Attention",
+      "text": "Every engagement at ARSK is led by a qualified partner, not delegated down. With partners across disciplines and offices in Kolkata and Mumbai, you get senior judgment on your matters — not junior execution with partner sign-off."
+    },
+    {
+      "num": "03",
+      "title": "Built for Indian Business Reality",
+      "text": "Whether supporting a growing business, a regulated financial institution, a promoter group or an international investor, we bring an integrated perspective to complex tax, regulatory and transaction matters. Our experience extends across corporate restructurings, cross-border investments, governance, dispute support and strategic transactions."
+    }
+  ]
+}

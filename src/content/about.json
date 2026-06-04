@@ -1,0 +1,53 @@
+{
+  "aboutTagline": "Established 1984",
+  "aboutTitle": "We have been at this since 1984.",
+  "aboutParagraphs": [
+    "ARSK & Associates was established as a partnership firm of Chartered Accountants in 1984, with a founding commitment to delivering independent, objective, and technically sound counsel to business clients.",
+    "Four decades later, the firm's core commitments have not changed — but the practice has grown significantly in both depth and scope. Today, ARSK operates from offices in Kolkata and Mumbai, with a team of partners and a professional staff that spans Chartered Accountants, Company Secretaries, and advisory specialists.",
+    "We serve founders and promoters of growing companies, family businesses navigating succession and governance, CFOs of mid-market enterprises who need a reliable sounding board, and multinationals entering or operating in India. Our clients come to us because they want advisors who understand their business — not just their balance sheet."
+  ],
+  "aboutImage": "/images/client lobby.jpeg",
+  "aboutImageAlt": "ARSK Client Lobby",
+  "regionsTitle": "Operating Regions",
+  "regions": [
+    {
+      "city": "Kolkata (Headquarters)",
+      "detail": "Unimark Asian, 16th Floor, 52/1, Shakespeare Sarani, Kolkata 700017."
+    },
+    {
+      "city": "Mumbai (Branch Office)",
+      "detail": "Naman Midtown, B 206, 2nd Floor, Dr. Ambedkar Nagar, Senapati Bapat Marg, Elphinstone, Mumbai 400013."
+    }
+  ],
+  "orgTagline": "Structure & Governance",
+  "orgTitle": "Four integrated areas",
+  "orgIntro": "Our practice is structured around three integrated areas of service, ensuring aligned execution across disciplines:",
+  "departments": [
+    {
+      "name": "Attestation and Audit",
+      "desc": "Statutory audits under the Companies Act, tax audits under the Income Tax Act, forensic investigations, compliance reviews, and specialized certification assignments."
+    },
+    {
+      "name": "Risk Assurance and Management",
+      "desc": "Internal audits, concurrent audits, systems, process, and internal control reviews, information systems (IS) audits, and technology acquisition support."
+    },
+    {
+      "name": "Transaction Advisory and Taxation",
+      "desc": "Corporate advisory, M&A buy-side/sell-side support, business and asset valuations, corporate law compliance (ROC, SEBI, FEMA, RBI), and domestic/international taxation representation."
+    },
+    {
+      "name": "Outsourced CFO & Virtual Finance",
+      "desc": "Outsourced finance function management, MIS design and reporting, Financial planning and analysis support, among other similar services."
+    }
+  ],
+  "conferenceImages": [
+    {
+      "image": "/images/conference room 1.jpeg",
+      "alt": "ARSK Conference Chamber 1"
+    },
+    {
+      "image": "/images/conference room 2.jpeg",
+      "alt": "ARSK Conference Chamber 2"
+    }
+  ]
+}
